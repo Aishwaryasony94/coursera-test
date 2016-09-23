@@ -1,0 +1,9 @@
+
+body{
+	background-color: lightblue;
+	font-style: 130%
+}
+section div:nth-child(7):hover{
+	background-color: red;
+	cursor: pointer;
+}
